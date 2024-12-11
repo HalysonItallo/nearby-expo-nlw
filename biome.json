@@ -25,8 +25,9 @@
       "suspicious": {
         "noExplicitAny": "off"
       },
+
       "correctness": {
-        "noUnusedImports": "warn",
+        "noUnusedImports": "off",
         "useExhaustiveDependencies": "off"
       }
     }
